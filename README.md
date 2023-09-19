@@ -1,8 +1,8 @@
 ## olá, eu sou o Lipe!!
 
 ### - Estudante de Ads 📖
-### - Nos caminhos do front-end 🖥️
-### - Descobrindo o javaScript 😊
+### - SQL - PYTHON 🖥️
+### - Descobrindo o BACK-END 😊
 
 <div align="center">
   <a href="https://github.com/fushimooo">
