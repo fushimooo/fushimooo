@@ -1,6 +1,6 @@
 ## olá, eu sou o Lipe!!
 
-### - Estudante de Ads 📖
+### - Formado em Ads 📖
 ### - SQL - PYTHON 🖥️
 ### - Descobrindo o BACK-END 😊
 
