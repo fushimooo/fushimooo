@@ -1,4 +1,4 @@
-## olá, eu sou o FeLipe!!
+## olá, eu sou o Felipe!!
 
 ### - Formado em Ads 📖
 ### - SQL - PYTHON 🖥️
