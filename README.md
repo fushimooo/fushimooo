@@ -1,4 +1,4 @@
-## olá, eu sou o Lipe!!
+## olá, eu sou o FeLipe!!
 
 ### - Formado em Ads 📖
 ### - SQL - PYTHON 🖥️
